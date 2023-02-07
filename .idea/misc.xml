@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Makeup/app/src/main/res/layout/activity_displayfacedata.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/activity_eyecare.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/activity_facecare.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/activity_haircare.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/activity_main.xml" value="0.144" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/activity_skincare.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/activity_skindisplay.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/activity_splashscreen.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/eyescare.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/facedesign.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/facerecyclerview.xml" value="0.23541666666666666" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/tolbar.xml" value="0.23645833333333333" />
+        <entry key="..\:/Makeup/app/src/main/res/layout/toolbar.xml" value="0.23541666666666666" />
+        <entry key="..\:/Makeup/app/src/main/res/menu/bottom_menu.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

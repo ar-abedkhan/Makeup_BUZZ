@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pink"
+    tools:context=".displayfacedata">
+
+
+    <ImageView
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/face"
+        android:id="@+id/bannerimage"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
+        />
+    <TextView
+        android:id="@+id/bannertitle"
+        app:layout_constraintTop_toBottomOf="@id/bannerimage"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="THIS IS S TITLE"
+        android:textAppearance="@style/TextAppearance.Material3.TitleLarge"
+        android:fontFamily="@font/abril_fatface"
+        />
+
+    <TextView
+        android:id="@+id/discriptionDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="25dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="Limit bath time. Hot water and long showers or baths remove oils from your skin. ...
+Avoid strong soaps. Strong soaps and detergents can strip oil from your skin. ...
+Shave carefully. To protect and lubricate your skin, apply shaving cream, lotion or gel before shaving. ...
+Pat dry. ...
+Moisturize dry skin."
+        app:layout_constraintTop_toBottomOf="@id/bannertitle"
+        tools:layout_editor_absoluteX="20dp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
